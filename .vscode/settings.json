@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "camelcase",
+    "classname",
+    "rocketseat",
+    "tailwindcss",
+    "trivago"
+  ],
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
